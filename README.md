@@ -4,7 +4,7 @@
 
   <h2 align="center">Project Jeevan</h2>
 
-  Jeevan is a fully responsive hospital website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Jeevan is a fully responsive website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://jeevan7.netlify.app/"><strong>➥ Live Demo</strong></a>
 
